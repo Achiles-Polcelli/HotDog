@@ -46,6 +46,7 @@ header {
 
 #mobile_btn {
     display: none;
+    
 }
 
 #mobile_menu {
@@ -64,6 +65,7 @@ header {
         background-color: transparent;
         font-size: 1.5rem;
         cursor: pointer;
+        text-decoration: none;
     }
 
     #mobile_menu.active {
